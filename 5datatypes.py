@@ -19,3 +19,17 @@ x=33
 y=99
 print(x>y)   #result is False
 print(x<y)   #result is true
+
+#none data types
+#it never gives any value it is a null value
+
+jj=None
+print(jj)
+print(type(jj))  #it will data type is  NoneType 
+
+d=""
+print(d)  
+print(type(d))#it will show  datatype is string datatype
+e=0
+print(e) 
+print(type(e))#it will datatype is  int data type
