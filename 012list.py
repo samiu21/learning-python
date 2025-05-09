@@ -1,4 +1,4 @@
-list1=[1,22,33,22]
+list1=[1,22,33,22]                   #mutable means we can change the value of the list
 print(list1)
 list2=["samiul","Porag","Amit","Mohabbat"]
 print(list2)
