@@ -4,3 +4,4 @@ list2=["samiul","Porag","Amit","Mohabbat"]
 print(list2)
 list3=[True,False,True,False,False]
 print(list3)
+print(len(list1))
