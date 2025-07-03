@@ -8,7 +8,7 @@ to_remove = ["banana", "jackfruit"]
 for item in to_remove:
     if item in fruits:
         fruits.remove(item) 
-        print(fruits)
+            
 
 print(fruits)
 # Output: ['apple', 'orange', 'pineapple']
