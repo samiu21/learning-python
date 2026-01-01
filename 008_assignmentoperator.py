@@ -1,19 +1,18 @@
-a=10
-b=3
+a = 10
+b = 3
 
-#addition
+# addition
 print(a+b)
-#Subtraction
+# Subtraction
 print(a-b)
 
-#Multiplication
+# Multiplication
 print(a*b)
- #Division after point 2 digit will show 
-print(round(a/b,2))
-#Modulus
-print(a%b)
-#Exponential
+# Division after point 2 digit will show
+print(round(a/b, 2))
+# Modulus
+print(a % b)
+# Exponential
 print(a**b)
-#Floor_Division
+# Floor_Division
 print(a//b)
- 
