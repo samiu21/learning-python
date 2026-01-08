@@ -22,7 +22,7 @@ n = str(b)
 length = len(n)
 for i in n:
     sum = sum+int(i)**length
-    
+
 if b == sum:
     print("This number is an Armstrong number ")
 else:
