@@ -1,6 +1,5 @@
-food=[["potato","tomato","lemon"],["meet","beef"],["hilsa","katla"],["jackfruit","banana","mango"]]
+food = [["potato", "tomato", "lemon"], ["meet", "beef"], ["hilsa", "katla"], ["jackfruit", "banana", "mango"]]
 
 for i in food:
     for j in i:
-        print(j )
-       
+        print(j)
